@@ -12,8 +12,6 @@ yay librewolf-bin
 ---
 portal izle
 ---
-boxbuddy = https://flathub.org/apps/io.github.dvlv.boxbuddyrs
----
 bakirkertenkele31
 ---
 başo klip lise hayatı = https://www.youtube.com/watch?v=qBEvSXgA34Y
