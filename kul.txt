@@ -1,0 +1,29 @@
+sudo pacman -Syu
+
+sudo pacman -S xfce4 xfce4-goodies lightdm lightdm-gtk-greeter nvidia nvidia-settings nvidia-utils opencl-nvidia primus_vk python-pycuda libvdpau lib32-libvdpau lib32-nvidia-utils lib32-opencl-nvidia lib32-primus_vk libxnvctrl vulkan-icd-loader lib32-vulkan-icd-loader python-glfw vkd3d lib32-vkd3d  mesa lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-icd-loader lib32-vulkan-icd-loader
+
+sudo systemctl enable lightdm
+---
+yay librewolf-bin
+---
+ Build The Smallest ESP32 Drone You Can Fly with Your Phone! (ESP-FLY) : https://www.youtube.com/watch?v=V_mZsiZcy7s
+---
+ Custom Cyberdeck For (Legal) Satellite Hacking : https://www.youtube.com/watch?v=L8XOqrKBM5w
+---
+-XFCE SEKSİ-
+xfwm4-themes ve papirus-icon-theme kur
+> Quiet-purple
+> Prune
+> Eazel-blue
+hangisini beğenirsen birini  seç.
+---
+
+DEBİAN STABLE VERSİON:
+sudo apt update && sudo apt upgrade -y && sudo apt full-upgrade -y && sudo apt autoremove -y
+---
+sudo apt install linux-headers-amd64 nvidia-driver firmware-misc-nonfree nvidia-cuda-dev nvidia-cuda-toolkit libnvoptix1
+
+
+
+---
+NVİDİA KONTROL = nvidia-smi
