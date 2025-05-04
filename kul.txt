@@ -41,3 +41,7 @@ sudo apt install linux-headers-amd64 nvidia-driver firmware-misc-nonfree nvidia-
 
 ---
 NVİDİA KONTROL = nvidia-smi
+
+
+---
+debian lightdm conf = sudo dpkg-reconfigure lightdm  => sudo systemctl enable lightdm  =>  sudo systemctl start lightdm
