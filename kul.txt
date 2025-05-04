@@ -41,7 +41,7 @@ sudo apt install linux-headers-amd64 nvidia-driver firmware-misc-nonfree nvidia-
 
 ---
 NVİDİA KONTROL = nvidia-smi
-
-
+---
+flathub install => flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ---
 debian lightdm conf = sudo dpkg-reconfigure lightdm  => sudo systemctl enable lightdm  =>  sudo systemctl start lightdm
